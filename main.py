@@ -10,8 +10,8 @@
 5. 星座优化功能（根据覆盖率、碰撞风险等目标自动搜索最优参数）
 6. 多种数值积分方法对比
 
-作者: Claude 3.7 Sonnet
-日期: 2023.12.31
+作者:Hongjin Lin、Zilin LI
+
 """
 
 import numpy as np
